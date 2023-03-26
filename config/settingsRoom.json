@@ -1,0 +1,1729 @@
+{
+
+    "items" : {
+
+        "10" : {
+
+            "axe" : {
+
+                "stone" : {
+
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 50
+
+                },
+
+                "iron" : {
+
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 20
+
+                },
+
+                "golden" : {
+
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 10
+
+                },
+
+                "diamond" : {
+
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 5
+
+                }
+
+            },
+
+            "sword" : {
+
+                "stone" : {
+
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 50
+
+                },
+
+                "iron" : {
+
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 20
+
+                },
+
+                "golden" : {
+
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 10
+
+                },
+
+                "diamond" : {
+
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 5
+
+                }
+
+            },
+
+            "shield" : {
+
+                "wooden" : {
+
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 30
+
+                },
+
+                "iron" : {
+
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 10
+
+                }
+
+            },
+
+            "coin" : {
+                "coin1" : {
+
+                    "num" : {
+                        "min" : 2,
+                        "max" : 4
+                    },
+    
+                    "prct" : 100
+    
+                },
+    
+                "coin2" : {
+    
+                    "num" : {
+                        "min" : 1,
+                        "max" : 3
+                    },
+    
+                    "prct" : 20
+    
+                },
+    
+                "coin3" : {
+    
+                    "num" : {
+                        "min" : 0,
+                        "max" : 2
+                    },
+    
+                    "prct" : 10
+    
+                },
+    
+                "coin4" : {
+    
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+    
+                    "prct" : 4
+    
+                },
+    
+                "coin5" : {
+    
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+    
+                    "prct" : 0.5
+    
+                }
+            }
+
+        },
+
+        "20" : {
+
+            "axe" : {
+
+                "stone" : {
+
+                    "num" : {
+                        "min" : 0,
+                        "max" : 2
+                    },
+
+                    "prct" : 60
+
+                },
+
+                "iron" : {
+
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 50
+
+                },
+
+                "golden" : {
+
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 20
+
+                },
+
+                "diamond" : {
+
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 7
+
+                }
+
+            },
+
+            "sword" : {
+
+                "stone" : {
+
+                    "num" : {
+                        "min" : 0,
+                        "max" : 2
+                    },
+
+                    "prct" : 60
+
+                },
+
+                "iron" : {
+
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 50
+
+                },
+
+                "golden" : {
+
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 20
+
+                },
+
+                "diamond" : {
+
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 7
+
+                }
+            },
+
+            "shield" : {
+
+                "wooden" : {
+
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 50
+
+                },
+
+                "iron" : {
+
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 20
+
+                }
+
+            },
+
+            "potion" : {
+
+                "life1" : {
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 10
+                },
+
+                "power1" : {
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 10
+                },
+
+                "powerLife1" : {
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 5
+                }
+
+            },
+
+            "coin" : {
+                "coin1" : {
+
+                    "num" : {
+                        "min" : 1,
+                        "max" : 3
+                    },
+    
+                    "prct" : 60
+    
+                },
+    
+                "coin2" : {
+    
+                    "num" : {
+                        "min" : 1,
+                        "max" : 3
+                    },
+    
+                    "prct" : 30
+    
+                },
+    
+                "coin3" : {
+    
+                    "num" : {
+                        "min" : 0,
+                        "max" : 2
+                    },
+    
+                    "prct" : 20
+    
+                },
+    
+                "coin4" : {
+    
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+    
+                    "prct" : 10
+    
+                },
+    
+                "coin5" : {
+    
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+    
+                    "prct" : 1
+    
+                }
+            }
+
+        },
+        
+        "40" : {
+
+            "axe" : {
+
+                "stone" : {
+
+                    "num" : {
+                        "min" : 0,
+                        "max" : 2
+                    },
+
+                    "prct" : 70
+
+                },
+
+                "iron" : {
+
+                    "num" : {
+                        "min" : 0,
+                        "max" : 2
+                    },
+
+                    "prct" : 60
+
+                },
+
+                "golden" : {
+
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 40
+
+                },
+
+                "diamond" : {
+
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 10
+
+                }
+
+            },
+
+            "sword" : {
+
+                "stone" : {
+
+                    "num" : {
+                        "min" : 0,
+                        "max" : 2
+                    },
+
+                    "prct" : 70
+
+                },
+
+                "iron" : {
+
+                    "num" : {
+                        "min" : 0,
+                        "max" : 2
+                    },
+
+                    "prct" : 60
+
+                },
+
+                "golden" : {
+
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 40
+
+                },
+
+                "diamond" : {
+
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 10
+
+                }
+
+            },
+
+            "shield" : {
+
+                "wooden" : {
+
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 60
+
+                },
+
+                "iron" : {
+
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 40
+
+                }
+
+            },
+
+            "potion" : {
+
+                "life1" : {
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 20
+                },
+
+                "life2" : {
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 10
+                },
+
+                "power1" : {
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 20
+                },
+
+                "power2" : {
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 10
+                },
+
+                "powerLife1" : {
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 10
+                },
+                
+                "powerLife2" : {
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 5
+                }
+
+            },
+
+            "coin" : {
+                "coin1" : {
+
+                    "num" : {
+                        "min" : 1,
+                        "max" : 2
+                    },
+    
+                    "prct" : 75
+    
+                },
+    
+                "coin2" : {
+    
+                    "num" : {
+                        "min" : 1,
+                        "max" : 3
+                    },
+    
+                    "prct" : 50
+    
+                },
+    
+                "coin3" : {
+    
+                    "num" : {
+                        "min" : 0,
+                        "max" : 2
+                    },
+    
+                    "prct" : 35
+    
+                },
+    
+                "coin4" : {
+    
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+    
+                    "prct" : 20
+    
+                },
+    
+                "coin5" : {
+    
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+    
+                    "prct" : 3
+    
+                }
+            }
+
+        },
+
+        "60" : {
+
+            "axe" : {
+
+                "stone" : {
+
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 30
+
+                },
+
+                "iron" : {
+
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 70
+
+                },
+
+                "golden" : {
+
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 50
+
+                },
+
+                "diamond" : {
+
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 15
+
+                }
+
+            },
+
+            "sword" : {
+
+                "stone" : {
+
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 30
+
+                },
+
+                "iron" : {
+
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 70
+
+                },
+
+                "golden" : {
+
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 50
+
+                },
+
+                "diamond" : {
+
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 15
+
+                }
+
+            },
+
+            "shield" : {
+
+                "wooden" : {
+
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 30
+
+                },
+
+                "iron" : {
+
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 50
+
+                }
+
+            },
+
+            "potion" : {
+
+                "life1" : {
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 30
+                },
+
+                "life2" : {
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 20
+                },
+
+                "power1" : {
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 30
+                },
+
+                "power2" : {
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 20
+                },
+
+                "powerLife1" : {
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 20
+                },
+                
+                "powerLife2" : {
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 10
+                }
+
+            },
+
+            "coin" : {
+                "coin1" : {
+
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+    
+                    "prct" : 20
+    
+                },
+    
+                "coin2" : {
+    
+                    "num" : {
+                        "min" : 0,
+                        "max" : 2
+                    },
+    
+                    "prct" : 50
+    
+                },
+    
+                "coin3" : {
+    
+                    "num" : {
+                        "min" : 1,
+                        "max" : 2
+                    },
+    
+                    "prct" : 50
+    
+                },
+    
+                "coin4" : {
+    
+                    "num" : {
+                        "min" : 0,
+                        "max" : 2
+                    },
+    
+                    "prct" : 40
+    
+                },
+    
+                "coin5" : {
+    
+                    "num" : {
+                        "min" : 0,
+                        "max" : 2
+                    },
+    
+                    "prct" : 10
+    
+                },
+
+                
+                "special" : {
+    
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+    
+                    "prct" : 0.5
+    
+                }
+            }
+
+        },
+
+        "80" : {
+
+            "axe" : {
+
+                "iron" : {
+
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 20
+
+                },
+
+                "golden" : {
+
+                    "num" : {
+                        "min" : 0,
+                        "max" : 2
+                    },
+
+                    "prct" : 30
+
+                },
+
+                "diamond" : {
+
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 17
+
+                }
+
+            },
+
+            "sword" : {
+
+                "iron" : {
+
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 20
+
+                },
+
+                "golden" : {
+
+                    "num" : {
+                        "min" : 0,
+                        "max" : 2
+                    },
+
+                    "prct" : 30
+
+                },
+
+                "diamond" : {
+
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 17
+
+                }
+
+            },
+
+            "shield" : {
+
+                "iron" : {
+
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 65
+
+                }
+
+            },
+
+            "potion" : {
+
+                "life1" : {
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 35
+                },
+
+                "life2" : {
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 25
+                },
+
+                "power1" : {
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 35
+                },
+
+                "power2" : {
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 25
+                },
+
+                "powerLife1" : {
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 25
+                },
+                
+                "powerLife2" : {
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 15
+                }
+
+            },
+
+            "coin" : {
+    
+                "coin2" : {
+    
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+    
+                    "prct" : 50
+    
+                },
+    
+                "coin3" : {
+    
+                    "num" : {
+                        "min" : 1,
+                        "max" : 2
+                    },
+    
+                    "prct" : 60
+    
+                },
+    
+                "coin4" : {
+    
+                    "num" : {
+                        "min" : 0,
+                        "max" : 2
+                    },
+    
+                    "prct" : 50
+    
+                },
+    
+                "coin5" : {
+    
+                    "num" : {
+                        "min" : 0,
+                        "max" : 2
+                    },
+    
+                    "prct" : 20
+    
+                },
+
+                
+                "special" : {
+    
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+    
+                    "prct" : 1
+    
+                }
+            }
+
+        },
+
+        "max" : {
+
+            "axe" : {
+
+                "golden" : {
+
+                    "num" : {
+                        "min" : 0,
+                        "max" : 2
+                    },
+
+                    "prct" : 20
+
+                },
+
+                "diamond" : {
+
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 20
+
+                }
+
+            },
+
+            "sword" : {
+
+                "golden" : {
+
+                    "num" : {
+                        "min" : 0,
+                        "max" : 2
+                    },
+
+                    "prct" : 20
+
+                },
+
+                "diamond" : {
+
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 20
+
+                }
+
+            },
+
+            "shield" : {
+
+                "iron" : {
+
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 70
+
+                }
+
+            },
+
+            "potion" : {
+
+                "life1" : {
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 35
+                },
+
+                "life2" : {
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 25
+                },
+
+                "life3" : {
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 15
+                },
+
+                "power1" : {
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 35
+                },
+
+                "power2" : {
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 25
+                },
+
+                "power3" : {
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 15
+                },
+
+                "powerLife1" : {
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 25
+                },
+                
+                "powerLife2" : {
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 15
+                },
+
+                "powerLife3" : {
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+
+                    "prct" : 10
+                }
+
+            },
+
+            "coin" : {
+    
+                "coin3" : {
+    
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+    
+                    "prct" : 40
+    
+                },
+    
+                "coin4" : {
+    
+                    "num" : {
+                        "min" : 1,
+                        "max" : 2
+                    },
+    
+                    "prct" : 50
+    
+                },
+    
+                "coin5" : {
+    
+                    "num" : {
+                        "min" : 0,
+                        "max" : 2
+                    },
+    
+                    "prct" : 40
+    
+                },
+
+                
+                "special" : {
+    
+                    "num" : {
+                        "min" : 0,
+                        "max" : 1
+                    },
+    
+                    "prct" : 2
+    
+                }
+            }
+
+        }
+
+
+    },
+
+    "mobs" : {
+
+        "10" : {
+
+            "zombie" : {
+
+                "num" : {
+                    "min" : 1,
+                    "max" : 3
+                },
+
+                "prct" : 100
+
+            },
+
+            "sqeleton" : {
+
+                "num" : {
+                    "min" : 1,
+                    "max" : 2
+                },
+
+                "prct" : 80
+
+            },
+
+            "spider" : {
+
+                "num" : {
+                    "min" : 0,
+                    "max" : 2
+                },
+
+                "prct" : 65
+
+            },
+
+            "creeper" : {
+
+                "num" : {
+                    "min" : 0,
+                    "max" : 2
+                },
+
+                "prct" : 50
+
+            },
+
+            "piglin" : {
+
+                "num" : {
+                    "min" : 0,
+                    "max" : 1
+                },
+
+                "prct" : 20
+
+            },
+
+            "blaze" : {
+
+                "num" : {
+                    "min" : 0,
+                    "max" : 1
+                },
+
+                "prct" : 10
+
+            },
+
+            "devastador" : {
+
+                "num" : {
+                    "min" : 0,
+                    "max" : 1
+                },
+
+                "prct" : 5
+
+            },
+
+            "guardian" : {
+
+                "num" : {
+                    "min" : 0,
+                    "max" : 1
+                },
+
+                "prct" : 1
+
+            }
+
+        },
+
+        "20" : {
+
+            "sqeleton" : {
+
+                "num" : {
+                    "min" : 1,
+                    "max" : 3
+                },
+
+                "prct" : 70
+
+            },
+
+            "spider" : {
+
+                "num" : {
+                    "min" : 1,
+                    "max" : 3
+                },
+
+                "prct" : 100
+
+            },
+
+            "creeper" : {
+
+                "num" : {
+                    "min" : 1,
+                    "max" : 2
+                },
+
+                "prct" : 90
+
+            },
+
+            "piglin" : {
+
+                "num" : {
+                    "min" : 0,
+                    "max" : 2
+                },
+
+                "prct" : 65
+
+            },
+
+            "blaze" : {
+
+                "num" : {
+                    "min" : 0,
+                    "max" : 1
+                },
+
+                "prct" : 30
+
+            },
+
+            "devastador" : {
+
+                "num" : {
+                    "min" : 0,
+                    "max" : 1
+                },
+
+                "prct" : 10
+
+            },
+
+            "guardian" : {
+
+                "num" : {
+                    "min" : 0,
+                    "max" : 1
+                },
+
+                "prct" : 3
+
+            }
+
+        },
+
+        "40" : {
+
+            "creeper" : {
+
+                "num" : {
+                    "min" : 0,
+                    "max" : 1
+                },
+
+                "prct" : 50
+
+            },
+
+            "piglin" : {
+
+                "num" : {
+                    "min" : 10,
+                    "max" : 15
+                },
+
+                "prct" : 100
+
+            },
+
+            "blaze" : {
+
+                "num" : {
+                    "min" : 1,
+                    "max" : 2
+                },
+
+                "prct" : 100
+
+            },
+
+            "devastador" : {
+
+                "num" : {
+                    "min" : 1,
+                    "max" : 1
+                },
+
+                "prct" : 90
+
+            },
+
+            "guardian" : {
+
+                "num" : {
+                    "min" : 0,
+                    "max" : 1
+                },
+
+                "prct" : 70
+
+            },
+
+            "warden" : {
+
+                "num" : {
+                    "min" : 0,
+                    "max" : 1
+                },
+
+                "prct" : 35
+
+            },
+
+            "wither" : {
+
+                "num" : {
+                    "min" : 0,
+                    "max" : 1
+                },
+
+                "prct" : 20
+
+            },
+
+            "bbyZombie" : {
+
+                "num" : {
+                    "min" : 0,
+                    "max" : 1
+                },
+
+                "prct" : 10
+
+            }
+
+        },
+
+        "60" : {
+
+            "devastador" : {
+
+                "num" : {
+                    "min" : 2,
+                    "max" : 4
+                },
+
+                "prct" : 100
+
+            },
+
+            "guardian" : {
+
+                "num" : {
+                    "min" : 1,
+                    "max" : 2
+                },
+
+                "prct" : 100
+
+            },
+
+            "warden" : {
+
+                "num" : {
+                    "min" : 0,
+                    "max" : 1
+                },
+
+                "prct" : 80
+
+            },
+
+            "wither" : {
+
+                "num" : {
+                    "min" : 0,
+                    "max" : 1
+                },
+
+                "prct" : 50
+
+            },
+
+            "bbyZombie" : {
+
+                "num" : {
+                    "min" : 0,
+                    "max" : 1
+                },
+
+                "prct" : 35
+
+            }
+
+        },
+
+        "80" : {
+
+            "guardian" : {
+
+                "num" : {
+                    "min" : 1,
+                    "max" : 2
+                },
+
+                "prct" : 100
+
+            },
+
+            "warden" : {
+
+                "num" : {
+                    "min" : 2,
+                    "max" : 4
+                },
+
+                "prct" : 100
+
+            },
+
+            "wither" : {
+
+                "num" : {
+                    "min" : 1,
+                    "max" : 3
+                },
+
+                "prct" : 100
+
+            },
+
+            "bbyZombie" : {
+
+                "num" : {
+                    "min" : 0,
+                    "max" : 2
+                },
+
+                "prct" : 100
+
+            }
+
+        },
+
+        "100" : {
+
+            "wither" : {
+
+                "num" : {
+                    "min" : 1,
+                    "max" : 2
+                },
+
+                "prct" : 100
+
+            },
+
+            "bbyZombie" : {
+
+                "num" : {
+                    "min" : 3,
+                    "max" : 4
+                },
+
+                "prct" : 100
+
+            }
+
+        },
+
+        "max" : {
+
+            "endDragon" : {
+
+                "num" : {
+                    "min" : 1,
+                    "max" : 1
+                },
+
+                "prct" : 100
+
+            }
+
+        }
+
+    }
+
+}
